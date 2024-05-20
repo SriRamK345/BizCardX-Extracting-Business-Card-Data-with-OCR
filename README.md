@@ -72,20 +72,3 @@ BizCardX is a Python application that enables users to upload an image of a busi
 
 5. **Database Integration**
    - Store extracted data and images in a MySQL database using SQL queries.
-
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Acknowledgements
-
-- Thanks to the developers of [easyOCR](https://github.com/JaidedAI/EasyOCR) and [Streamlit](https://www.streamlit.io/) for their amazing libraries.
-- Inspired by various open-source projects and tutorials.
-
----
-
-Feel free to further customize this README file to better fit your project's specific details and requirements.
